@@ -6,4 +6,4 @@
 
 **Thoughts:** Not too much progress today - I have forgotten a lot of the python syntax. I need to skim through the earlier chapters and take another crash course in Git as well. Tomorrow will be better. 
 
-**Link to work:**
+**Link to work:** [ex33.py](https://github.com/mastersontj/LPTHW/blob/master/ex33.py)
